@@ -1,2 +1,2 @@
 # React-native-basic-app
-This is React native basic Project 
+This is React Native Basic Project 
